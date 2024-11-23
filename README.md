@@ -1,6 +1,6 @@
 # Word to PDF Converter
 
-A Python-based tool to convert Word documents (`.docx` or `.doc`) into PDF files using LibreOffice. Includes a user-friendly web interface powered by [Gradio](https://gradio.app/).
+A Python-based tool to convert Word documents (`.docx` or `.doc`) into PDF files using LibreOffice. Includes a user-friendly web interfacE powered by [Gradio](https://gradio.app/).
 
 ## Features
 - Supports `.docx` and `.doc` formats.
