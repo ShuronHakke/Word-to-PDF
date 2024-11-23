@@ -9,9 +9,13 @@ A Python-based tool to convert Word documents (`.docx` or `.doc`) into PDF files
 - Easy-to-use web interface for uploading and downloading files.
 
 ## Prerequisites
-- Python 3.7+
-- LibreOffice installed on your system.
+To use this project, you need the following installed on your system:
+- Python 3.7 or higher
+- LibreOffice (for converting Word documents to PDFs)
 
+Install LibreOffice on Linux:
+```bash
+sudo apt-get install libreoffice
 ## Installation
 1. Clone the repository:
    ```bash
